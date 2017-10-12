@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Mujeeb Rahman'
 SITENAME = 'ഇമ്മിണി ബെല്യേ കമ്പ്യൂട്ടിംഗ്'
 SITEURL = ''
-RELATIVE_URLS=True
+RELATIVE_URLS = True
 PATH = 'content'
 
 TIMEZONE = 'Asia/Kolkata'
